@@ -1,2 +1,2 @@
 # minha-caveira
-meu exu me deu uma caveiraaaxxx tlgd
+meu me deu uma caveiraaaxxx tlgd
