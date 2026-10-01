@@ -1,5 +1,6 @@
 body{
     background-color: floralwhite;
+    text-align: center;
 }
 h1{
     color: maroon;
@@ -9,6 +10,7 @@ h2{
     color: maroon;
     font-style: italic;
 }
+
 h3{
     color: maroon;
     font-style: italic;
@@ -29,5 +31,13 @@ h3{
     color: maroon;
 }
 .RuaBelterra291{
-width: 50%;
+   width: 50%;
+   text-align: center;
+}
+
+.lista {
+    text-align: left;
+    font-style: italic;
+    text-decoration: overline;
+    color: ghostwhite;
 }
